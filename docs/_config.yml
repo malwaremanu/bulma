@@ -7,7 +7,7 @@ docs_file:     "bulma-docs.min"
 
 markdown:      kramdown
 permalink:     pretty
-url:           https://bulma.io
+url:           https://malwaremanu.github.io/bulma/
 exclude:       ['icons', 'node_modules', 'templates', '.babelrc', 'bulma-docs.sass', 'docker-compose.yml', 'package.json', 'yarn.lock']
 
 theme: jekyll-theme-slate
